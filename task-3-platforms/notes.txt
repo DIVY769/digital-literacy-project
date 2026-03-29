@@ -1,0 +1,60 @@
+Task 3 – Coding & Collaboration Platforms
+==========================================
+Student: Divy Jindal | Reg No: 25BCE10769
+
+PART A – CODING PRACTICE PLATFORM: HackerRank (hackerrank.com)
+
+Platform Used: HackerRank
+Challenge Completed: "Solve Me First" (Introduction challenge)
+
+What I Did:
+I created an account on HackerRank using my college email and completed the
+introductory challenge "Solve Me First" under the Algorithms section. The problem
+required writing a simple function to add two numbers — straightforward, but it
+helped me understand how HackerRank's code editor and submission system works.
+
+Result: Successfully passed all test cases. Badge earned: Problem Solving (Beginner).
+
+NOTE: Screenshot of the completed challenge is included in this folder.
+
+---
+
+PART B – GOOGLE WORKSPACE COLLABORATION: Google Forms
+
+What I Built:
+A 5-question "Digital Literacy Awareness Quiz" designed for first-year students.
+
+Quiz Questions:
+Q1. (Multiple Choice) What does digital literacy mean?
+    a) Knowing how to type fast
+    b) Using digital tools responsibly and effectively
+    c) Having a smartphone
+    d) Playing online games
+
+Q2. (Multiple Choice) Which of the following is a sign of a phishing email?
+    a) It comes from your professor's official email
+    b) It creates urgency and asks for your login credentials
+    c) It has your name in the subject line
+    d) It is written in formal English
+
+Q3. (Short Answer) Name one thing you should check before clicking a link in an email.
+
+Q4. (Multiple Choice) What is the National Cyber Crime Helpline number in India?
+    a) 112
+    b) 100
+    c) 1930
+    d) 1800
+
+Q5. (Short Answer) Why is it important to maintain a professional online presence on platforms like LinkedIn?
+
+Google Form Link: [Add your Google Form link here after creating it]
+
+HOW THESE TOOLS WILL HELP ACADEMICALLY:
+HackerRank gives structured coding practice with instant feedback, which is very
+useful for building problem-solving skills required in placements. Google Forms is a
+powerful tool for collecting data, conducting surveys, and quizzing peers — all
+relevant for academic projects and group work. Together, these platforms represent
+the kind of digital collaboration and skill-building tools I will use throughout my
+engineering degree.
+
+NOTE: Screenshots of the Google Form and linked Google Sheet are included in this folder.
